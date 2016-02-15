@@ -1,0 +1,34 @@
+commit f90674a30fd387fa5b69ec8fb119061d5846c139
+Author: Vitalik Interno <hjacker@gmail.com>
+Date:   Tue Feb 16 00:00:04 2016 +0200
+
+    added text into text.txt
+
+commit 3f3ee852123abf66394431d26c66e43f5150053f
+Author: Vitalik Interno <hjacker@gmail.com>
+Date:   Mon Feb 15 23:54:07 2016 +0200
+
+    added text.txt and log.txt
+
+commit 90a362c4e89ae347797317a930c74d6214e4c7c7
+Merge: 19f1645 2d03c41
+Author: whyfuture <hjacker@gmail.com>
+Date:   Thu May 21 22:05:05 2015 +0300
+
+    Merge pull request #2 from whyfuture/readme-edits
+    
+    Readme edits, fixes #1
+
+commit 2d03c415845c07a67ec088e847f73fab018582db
+Author: whyfuture <hjacker@gmail.com>
+Date:   Thu May 21 22:01:08 2015 +0300
+
+    Finish README
+    
+    Kind of an old story
+
+commit 19f1645302d6dd7751a62929061996e02ee61729
+Author: whyfuture <hjacker@gmail.com>
+Date:   Thu May 21 21:52:05 2015 +0300
+
+    Initial commit
